@@ -48,9 +48,6 @@
 
     <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
 
-
-
-
   </div>
 
 </section>
